@@ -27,8 +27,8 @@ It is structured to be followed from top to bottom.
 - Created an [ORCID](https://orcid.org/register).
 - Created a [GitHub Account](https://github.com/) and joined the [Zdouc Lab GitHub Organization](https://github.com/zdouc-lab).
 - Created a personal [lab notebook](../protocols/lab-notebook.md)
-- Registered for the Master student seminar (only for University of Vienna Master students).
-- Registered for the Master student journal club (only for University of Vienna Master students).
+- Registered for the Master student seminar (only for University of Vienna students).
+- Registered for the Master student journal club (only for University of Vienna students).
 - Received a guided tour through the lab.
 - Received a personal folder in the office.
 - Was asked for approval to be featured on the [Zdouc Lab website](https://zdouclab.org/team/).
@@ -52,7 +52,7 @@ Specifically for **dry-lab** projects:
 
 - Prepared project proposal/exposé, shared with Mitja, received feedback and approval.
 - Filled in [Data Management Plan](data_management_plan.md).
-- Registered the topic with the [Study office](https://ssc-lebenswissenschaften.univie.ac.at/pharmazie/masterstudium/masterarbeit/anmeldung-des-themas/) and received approval.
+- Registered the topic with the [Study office](https://ssc-lebenswissenschaften.univie.ac.at/pharmazie/masterstudium/masterarbeit/anmeldung-des-themas/) and received approval (only for University of Vienna students).
 
 ## Project timeline
 
@@ -67,18 +67,6 @@ All projects in the Zdouc lab should follow this approximate timeline:
 7. Thesis draft submission (~3 weeks before project end)
 8. Thesis draft discussion (~2 weeks before end)
 9. Thesis submission, end of project
-
-## Finishing checklist (for University of Vienna students)
-
-1. Sent thesis draft to Mitja until agreed-upon deadline
-2. Received feedback on thesis draft, incorporated it
-3. Formatted master thesis following the [formal guidelines](https://ssc-lebenswissenschaften.univie.ac.at/pharmazie/masterstudium/masterarbeit/formvorschriften/)
-4. Prepared final thesis document pdf
-5. Passed the [plagiarism check](https://ssc-lebenswissenschaften.univie.ac.at/pharmazie/masterstudium/masterarbeit/plagiatspruefung/)
-6. Submitted thesis for [examination](https://ssc-lebenswissenschaften.univie.ac.at/pharmazie/masterstudium/masterarbeit/einreichung-der-arbeit/), keeping to the described deadlines.
-7. After grading, registered for the defense date.
-8. Prepared a short presentation (max. 10 mins) about thesis, to be presented during defense (coordinate with Mitja)
-9. Prepared a debriefing document, describing location of resources created during thesis projects (e.g. data, isolates, strains, extracts)
 
 ## Project proposal
 
@@ -107,6 +95,18 @@ Proposals try to answer **What**, **How**, **Where**, **When**, **Why**, and **W
 *Nota bene: don't aim for perfect prose - scientific writing is simply a skill that becomes better with practice. Just try to put some words on paper (or the word processor).*
 
 There are many resources available on the web, including from the [University of Vienna](https://ctl.univie.ac.at/fileadmin/user_upload/z_ctl_neu/Angebote_fuer_Lehrende/Wissenschaftliches_Schreiben_und_Arbeiten/Materialien_fuer_die_Lehre/Team_Schreiben/Expose.pdf)
+
+## Finishing checklist (for University of Vienna students)
+
+1. Sent thesis draft to Mitja until agreed-upon deadline
+2. Received feedback on thesis draft, incorporated it
+3. Formatted master thesis following the [formal guidelines](https://ssc-lebenswissenschaften.univie.ac.at/pharmazie/masterstudium/masterarbeit/formvorschriften/)
+4. Prepared final thesis document pdf
+5. Passed the [plagiarism check](https://ssc-lebenswissenschaften.univie.ac.at/pharmazie/masterstudium/masterarbeit/plagiatspruefung/)
+6. Submitted thesis for [examination](https://ssc-lebenswissenschaften.univie.ac.at/pharmazie/masterstudium/masterarbeit/einreichung-der-arbeit/), keeping to the described deadlines.
+7. After grading, registered for the defense date.
+8. Prepared a short presentation (max. 10 mins) about thesis, to be presented during defense (coordinate with Mitja)
+9. Prepared a debriefing document, describing location of resources created during thesis projects (e.g. data, isolates, strains, extracts)
 
 ## Thesis Writing
 
