@@ -37,6 +37,7 @@ Specifically for **wet-lab** projects:
 
 - Completed the Moodle Lab Safety course (ask Mitja to add you).
 - Completed a lab safety tour with the lab manager.
+- Received a box in the -20 freezer.
 
 Specifically for **dry-lab** projects:
 
