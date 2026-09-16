@@ -27,6 +27,7 @@ It is structured to be followed from top to bottom.
 - Created an [ORCID](https://orcid.org/register).
 - Created a [GitHub Account](https://github.com/) and joined the [Zdouc Lab GitHub Organization](https://github.com/zdouc-lab).
 - Created a personal [lab notebook](../protocols/lab-notebook.md)
+- Received invitations to the monthly group meetings
 - Registered for the Master student seminar (only for University of Vienna students).
 - Registered for the Master student journal club (only for University of Vienna students).
 - Received a guided tour through the lab.
