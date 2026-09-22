@@ -9,8 +9,7 @@ These can be accessed by logging in with the `student` account
 
 *Nota bene: assumes a fresh Ubuntu install*
 
-### Step-by-step install instructions
-
+### First setup
 
 - Login with admin account, create new user `student`, set password. Do not give sudo rights.
 
@@ -21,5 +20,23 @@ chmod +x ./setup_script.sh
 sudo ./setup_script.sh
 ```
 
-- Via docker, install MITE and FERMO offline
+- Add `student` to the `docker` group
+```commandline
+sudo usermod -aG docker student
+```
+
 - Verify that the `student` account is in the sudoers file and that it can run docker programs
+```commandline
+groups student
+```
+
+### Update procedure
+
+- Login with admin account
+- Download and run the update script
+
+```commandline
+wget https://raw.githubusercontent.com/zdouc-lab/onboarding/refs/heads/main/software_setup/update_script.sh
+chmod +x ./update_script.sh
+sudo ./update_script.sh
+```
